@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91981/Desktop/New%20folder/mlProject/mlruns/0/6c3d448409ce40ec8aa71e059dc9e276/artifacts
+end_time: 1725380413973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c3d448409ce40ec8aa71e059dc9e276
+run_name: adventurous-dog-229
+run_uuid: 6c3d448409ce40ec8aa71e059dc9e276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725380409551
+status: 3
+tags: []
+user_id: '91981'

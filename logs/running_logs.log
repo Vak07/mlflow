@@ -1,0 +1,1309 @@
+[2024-08-31 23:25:56,858: INFO: main: Welcome to our custom logging]
+[2024-09-01 22:12:10,364: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-01 22:12:10,393: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 22:12:10,397: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-01 22:12:10,402: INFO: common: created directory at: artifacts]
+[2024-09-01 22:12:10,405: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-01 22:12:38,873: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-01 22:12:38,874: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 22:12:38,875: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-01 22:12:38,877: INFO: common: created directory at: artifacts]
+[2024-09-01 22:12:38,879: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-01 22:17:10,212: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-01 22:17:10,217: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-01 22:17:10,218: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-01 22:17:10,220: INFO: common: created directory at: artifacts]
+[2024-09-01 22:17:10,221: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-01 22:17:11,171: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: D988:284B1C:219317:2BAE9F:66D49A8D
+Accept-Ranges: bytes
+Date: Sun, 01 Sep 2024 16:47:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4726-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1725209230.325129,VS0,VE330
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 788044614d21a3b16dc8f9e0e4aaece980584fc1
+Expires: Sun, 01 Sep 2024 16:52:10 GMT
+Source-Age: 0
+
+]
+[2024-09-02 13:00:49,042: INFO: main: Welcome to our custom logging]
+[2024-09-02 13:01:04,700: INFO: main: Welcome to our custom logging]
+[2024-09-02 18:33:39,876: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 18:33:42,092: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 18:33:42,540: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 18:44:02,599: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 18:44:43,357: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 18:44:43,361: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 18:44:43,389: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 18:44:43,394: INFO: common: created directory at: artifacts]
+[2024-09-02 18:44:43,398: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 18:44:44,803: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 70D4:1475CF:18A113:1F5350:66D5BA36
+Accept-Ranges: bytes
+Date: Mon, 02 Sep 2024 13:14:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4730-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1725282884.930960,VS0,VE326
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7f49eae30a12cf3c46adb0902db28fbc8005a102
+Expires: Mon, 02 Sep 2024 13:19:44 GMT
+Source-Age: 0
+
+]
+[2024-09-02 18:49:18,554: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 18:49:18,556: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 18:49:18,558: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 18:49:18,559: INFO: common: created directory at: artifacts]
+[2024-09-02 18:49:18,561: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 18:49:18,566: INFO: 2366278714: File already exists of size: ~ 23 KB]
+[2024-09-02 18:51:34,549: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 18:51:34,553: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 18:51:34,554: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 18:51:34,556: INFO: common: created directory at: artifacts]
+[2024-09-02 18:51:34,557: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 18:51:34,560: INFO: 2366278714: File already exists of size: ~ 23 KB]
+[2024-09-02 18:52:32,811: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 18:52:32,813: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 18:52:32,815: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 18:52:32,816: INFO: common: created directory at: artifacts]
+[2024-09-02 18:52:32,817: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 18:52:32,820: INFO: 2366278714: File already exists of size: ~ 23 KB]
+[2024-09-02 23:04:28,770: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:04:28,780: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:04:28,790: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:04:28,791: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:04:28,793: INFO: common: created directory at: artifacts]
+[2024-09-02 23:04:28,793: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:04:28,793: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-02 23:04:28,809: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-02 23:04:46,750: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:04:46,754: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:04:46,755: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:04:46,756: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:04:46,756: INFO: common: created directory at: artifacts]
+[2024-09-02 23:04:46,756: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:04:46,756: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-02 23:04:46,760: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-02 23:04:56,264: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:04:56,268: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:04:56,269: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:04:56,269: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:04:56,269: INFO: common: created directory at: artifacts]
+[2024-09-02 23:04:56,270: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:04:56,270: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-02 23:04:56,273: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-02 23:05:43,262: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:05:43,266: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:05:43,267: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:05:43,267: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:05:43,268: INFO: common: created directory at: artifacts]
+[2024-09-02 23:05:43,268: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:05:43,269: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-02 23:05:43,272: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-02 23:16:24,636: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:16:24,639: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:16:24,642: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:16:24,643: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:16:24,644: INFO: common: created directory at: artifacts]
+[2024-09-02 23:16:24,644: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:16:24,644: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-02 23:16:24,649: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-02 23:16:38,019: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:16:38,022: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:16:38,023: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:16:38,024: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:16:38,024: INFO: common: created directory at: artifacts]
+[2024-09-02 23:16:38,024: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:16:38,025: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-02 23:16:38,027: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-02 23:17:08,383: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:17:08,386: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:17:08,386: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:17:08,387: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:17:08,387: INFO: common: created directory at: artifacts]
+[2024-09-02 23:17:08,388: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:17:09,566: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BA46:2862B7:345F7A:4302F5:66D5FA1B
+Accept-Ranges: bytes
+Date: Mon, 02 Sep 2024 17:47:08 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4730-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1725299229.642316,VS0,VE290
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9134791e9943a75aa96633b0b09a301b7f8d8099
+Expires: Mon, 02 Sep 2024 17:52:08 GMT
+Source-Age: 0
+
+]
+[2024-09-02 23:17:09,579: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-02 23:17:51,697: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:17:51,702: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:17:51,704: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:17:51,705: INFO: common: created directory at: artifacts]
+[2024-09-02 23:17:51,706: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:17:52,220: INFO: 2366278714: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BA46:2862B7:345F7A:4302F5:66D5FA1B
+Accept-Ranges: bytes
+Date: Mon, 02 Sep 2024 17:47:51 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4722-BOM
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1725299272.708765,VS0,VE4
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b0d40619f49077c358aa3b945f9a463e5b5f4c63
+Expires: Mon, 02 Sep 2024 17:52:51 GMT
+Source-Age: 43
+
+]
+[2024-09-02 23:18:22,087: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:18:22,090: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:18:22,091: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:18:22,092: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:18:22,092: INFO: common: created directory at: artifacts]
+[2024-09-02 23:18:22,092: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:18:22,600: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BA46:2862B7:345F7A:4302F5:66D5FA1B
+Accept-Ranges: bytes
+Date: Mon, 02 Sep 2024 17:48:21 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4724-BOM
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1725299302.954785,VS0,VE3
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e7b62b3de0cc514f8c5273cc30d0382fe865f4ab
+Expires: Mon, 02 Sep 2024 17:53:21 GMT
+Source-Age: 73
+
+]
+[2024-09-02 23:18:22,613: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-02 23:39:41,342: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-02 23:39:41,345: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-02 23:39:41,347: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-02 23:39:41,347: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-02 23:39:41,349: INFO: common: created directory at: artifacts]
+[2024-09-02 23:39:41,349: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-02 23:39:42,400: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BA46:2862B7:345F7A:4302F5:66D5FA1B
+Accept-Ranges: bytes
+Date: Mon, 02 Sep 2024 18:09:41 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4736-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1725300582.528257,VS0,VE374
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: e9feb364367e97765a6018a032a6c50afa172412
+Expires: Mon, 02 Sep 2024 18:14:41 GMT
+Source-Age: 0
+
+]
+[2024-09-02 23:39:42,415: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-03 00:20:22,111: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 00:20:22,122: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 00:20:22,123: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 00:20:22,124: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 00:20:22,124: INFO: common: created directory at: artifacts]
+[2024-09-03 00:20:22,125: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 00:20:23,239: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BA46:2862B7:345F7A:4302F5:66D5FA1B
+Accept-Ranges: bytes
+Date: Mon, 02 Sep 2024 18:50:22 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4731-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1725303022.352005,VS0,VE393
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 5654d1a7320cd1efd0a64e3939bf03fdb00fd449
+Expires: Mon, 02 Sep 2024 18:55:22 GMT
+Source-Age: 0
+
+]
+[2024-09-03 00:20:23,256: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======= :x]
+[2024-09-03 00:42:33,409: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 00:42:33,414: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 00:42:33,425: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 00:42:33,427: INFO: common: created directory at: artifacts]
+[2024-09-03 00:42:33,428: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 00:49:36,695: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 00:49:36,697: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 00:49:36,702: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 00:49:36,703: INFO: common: created directory at: artifacts]
+[2024-09-03 00:49:36,704: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 00:58:26,165: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 00:58:26,167: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 00:58:26,172: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 00:58:26,174: INFO: common: created directory at: artifacts]
+[2024-09-03 00:58:26,174: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 01:10:16,589: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 01:10:16,591: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 01:10:16,629: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 01:10:16,633: INFO: common: created directory at: artifacts]
+[2024-09-03 01:10:16,634: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 11:37:22,815: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 11:37:23,321: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 11:37:23,331: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 11:37:23,338: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 11:37:23,345: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 11:37:23,348: INFO: common: created directory at: artifacts]
+[2024-09-03 11:37:23,348: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 11:37:24,275: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C3AA:20961C:768F8:9EDAD:66D6A79B
+Accept-Ranges: bytes
+Date: Tue, 03 Sep 2024 06:07:23 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4724-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1725343643.466751,VS0,VE279
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 134e5f2bbd7b1102c77a93d10c214d9308953e55
+Expires: Tue, 03 Sep 2024 06:12:23 GMT
+Source-Age: 0
+
+]
+[2024-09-03 11:37:24,293: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 11:37:24,293: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 11:37:24,296: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 11:37:24,297: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 11:37:24,299: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 11:37:24,299: INFO: common: created directory at: artifacts]
+[2024-09-03 11:37:24,300: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_validation_config']
+Traceback (most recent call last):
+  File "C:\Users\91981\Desktop\New folder\mlProject\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\Users\91981\Desktop\New folder\mlProject\src\mlProject\pipeline\stage_02_data_validation.py", line 14, in main
+    data_validation_config = config.get_data_validation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'
+[2024-09-03 12:06:18,602: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:06:18,608: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:06:18,611: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:06:18,613: INFO: common: created directory at: artifacts]
+[2024-09-03 12:06:18,614: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 12:06:18,614: INFO: 2366278714: File already exists of size: ~ 23 KB]
+[2024-09-03 12:06:48,650: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 12:06:49,087: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 12:06:49,091: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:06:49,091: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:06:49,093: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:06:49,094: INFO: common: created directory at: artifacts]
+[2024-09-03 12:06:49,094: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 12:06:49,094: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 12:06:49,098: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 12:06:49,098: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 12:06:49,101: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:06:49,101: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:06:49,103: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:06:49,103: INFO: common: created directory at: artifacts]
+[2024-09-03 12:06:49,104: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_validation_config']
+Traceback (most recent call last):
+  File "C:\Users\91981\Desktop\New folder\mlProject\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\Users\91981\Desktop\New folder\mlProject\src\mlProject\pipeline\stage_02_data_validation.py", line 14, in main
+    data_validation_config = config.get_data_validation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'
+[2024-09-03 12:07:15,507: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 12:07:15,775: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 12:07:15,778: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:07:15,779: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:07:15,781: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:07:15,781: INFO: common: created directory at: artifacts]
+[2024-09-03 12:07:15,782: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 12:07:16,679: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C3AA:20961C:768F8:9EDAD:66D6A79B
+Accept-Ranges: bytes
+Date: Tue, 03 Sep 2024 06:37:16 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4736-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1725345436.877265,VS0,VE275
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a34e27a9d245cf37dd3410ff825740251f0ac289
+Expires: Tue, 03 Sep 2024 06:42:16 GMT
+Source-Age: 0
+
+]
+[2024-09-03 12:07:16,699: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 12:07:16,699: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 12:07:16,702: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:07:16,703: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:07:16,705: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:07:16,707: INFO: common: created directory at: artifacts]
+[2024-09-03 12:07:16,707: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_validation_config']
+Traceback (most recent call last):
+  File "C:\Users\91981\Desktop\New folder\mlProject\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\Users\91981\Desktop\New folder\mlProject\src\mlProject\pipeline\stage_02_data_validation.py", line 14, in main
+    data_validation_config = config.get_data_validation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'
+[2024-09-03 12:10:19,933: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 12:10:20,342: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 12:10:20,344: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:10:20,345: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:10:20,348: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:10:20,348: INFO: common: created directory at: artifacts]
+[2024-09-03 12:10:20,348: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 12:10:20,349: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 12:10:20,352: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 12:10:20,353: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 12:10:20,355: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:10:20,356: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:10:20,358: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:10:20,358: INFO: common: created directory at: artifacts]
+[2024-09-03 12:10:20,358: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_validation_config']
+Traceback (most recent call last):
+  File "C:\Users\91981\Desktop\New folder\mlProject\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\Users\91981\Desktop\New folder\mlProject\src\mlProject\pipeline\stage_02_data_validation.py", line 13, in main
+    data_validation_config = config.get_data_validation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'
+[2024-09-03 12:29:01,919: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 12:29:02,371: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 12:29:02,374: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:29:02,376: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:29:02,378: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:29:02,380: INFO: common: created directory at: artifacts]
+[2024-09-03 12:29:02,380: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 12:29:02,380: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 12:29:02,384: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 12:29:02,385: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 12:29:02,388: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:29:02,388: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:29:02,390: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:29:02,390: INFO: common: created directory at: artifacts]
+[2024-09-03 12:29:02,392: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 12:29:02,418: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 12:29:32,398: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 12:29:32,802: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 12:29:32,805: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:29:32,808: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:29:32,810: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:29:32,811: INFO: common: created directory at: artifacts]
+[2024-09-03 12:29:32,811: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 12:29:34,717: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C3AA:20961C:768F8:9EDAD:66D6A79B
+Accept-Ranges: bytes
+Date: Tue, 03 Sep 2024 06:59:34 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4723-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1725346774.890188,VS0,VE302
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 529fe9ff4a2a7ae247fb36f8c72cd3b91b24575d
+Expires: Tue, 03 Sep 2024 07:04:34 GMT
+Source-Age: 0
+
+]
+[2024-09-03 12:29:34,748: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 12:29:34,748: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 12:29:34,752: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 12:29:34,752: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 12:29:34,754: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 12:29:34,754: INFO: common: created directory at: artifacts]
+[2024-09-03 12:29:34,756: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 12:29:34,781: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 12:37:40,618: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 12:37:48,334: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 12:37:48,340: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 12:37:48,344: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 12:37:48,346: INFO: common: created directory at: artifacts]
+[2024-09-03 12:37:48,348: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 12:37:48,411: INFO: 741865018: Splited data into training and test sets]
+[2024-09-03 12:37:48,412: INFO: 741865018: (1199, 12)]
+[2024-09-03 12:37:48,414: INFO: 741865018: (400, 12)]
+[2024-09-03 14:53:45,744: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 14:53:46,294: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 14:53:46,298: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 14:53:46,300: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 14:53:46,301: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 14:53:46,303: INFO: common: created directory at: artifacts]
+[2024-09-03 14:53:46,303: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 14:53:47,792: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1353:2B8393:4F624B:5E85A9:66D6D5A2
+Accept-Ranges: bytes
+Date: Tue, 03 Sep 2024 09:23:47 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4721-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1725355427.783293,VS0,VE502
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d717a2648535afadb83f6237adb99f516143f39d
+Expires: Tue, 03 Sep 2024 09:28:47 GMT
+Source-Age: 0
+
+]
+[2024-09-03 14:53:47,824: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 14:53:47,824: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 14:53:47,827: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 14:53:47,828: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 14:53:47,829: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 14:53:47,829: INFO: common: created directory at: artifacts]
+[2024-09-03 14:53:47,831: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 14:53:47,856: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 14:53:47,857: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 14:53:47,857: ERROR: main: name 'DataTransformationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\91981\Desktop\New folder\mlProject\main.py", line 37, in <module>
+    data_ingestion = DataTransformationTrainingPipeline()
+NameError: name 'DataTransformationTrainingPipeline' is not defined
+[2024-09-03 14:55:19,999: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 14:55:21,575: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 14:55:21,577: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 14:55:21,581: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 14:55:21,582: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 14:55:21,584: INFO: common: created directory at: artifacts]
+[2024-09-03 14:55:21,584: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 14:55:21,584: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 14:55:21,589: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 14:55:21,590: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 14:55:21,592: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 14:55:21,593: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 14:55:21,595: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 14:55:21,595: INFO: common: created directory at: artifacts]
+[2024-09-03 14:55:21,596: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 14:55:21,625: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 14:55:21,626: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 14:55:21,641: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 14:55:21,642: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 14:55:21,644: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 14:55:21,644: INFO: common: created directory at: artifacts]
+[2024-09-03 14:55:21,645: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 14:55:21,673: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 14:55:21,673: INFO: data_transformation: (1199, 12)]
+[2024-09-03 14:55:21,674: INFO: data_transformation: (400, 12)]
+[2024-09-03 14:55:21,674: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 15:17:24,051: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 15:17:24,069: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 15:17:24,074: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 15:17:24,078: INFO: common: created directory at: artifacts]
+[2024-09-03 15:17:24,080: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 15:17:24,210: INFO: 741865018: Splited data into training and test sets]
+[2024-09-03 15:17:24,210: INFO: 741865018: (1199, 12)]
+[2024-09-03 15:17:24,211: INFO: 741865018: (400, 12)]
+[2024-09-03 15:17:47,019: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 15:17:54,794: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 15:17:54,797: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 15:17:54,802: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 15:17:54,803: INFO: common: created directory at: artifacts]
+[2024-09-03 15:17:54,805: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 15:35:51,147: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 15:35:52,738: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 15:35:52,741: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 15:35:52,742: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 15:35:52,744: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 15:35:52,747: INFO: common: created directory at: artifacts]
+[2024-09-03 15:35:52,747: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 15:35:54,009: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1353:2B8393:4F624B:5E85A9:66D6D5A2
+Accept-Ranges: bytes
+Date: Tue, 03 Sep 2024 10:05:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4727-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1725357953.148346,VS0,VE362
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: bc01bc2a80da511c0aa05eaa52857b4b3db8a85a
+Expires: Tue, 03 Sep 2024 10:10:53 GMT
+Source-Age: 0
+
+]
+[2024-09-03 15:35:54,033: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 15:35:54,033: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 15:35:54,038: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 15:35:54,040: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 15:35:54,042: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 15:35:54,043: INFO: common: created directory at: artifacts]
+[2024-09-03 15:35:54,044: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 15:35:54,071: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 15:35:54,072: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 15:35:54,077: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 15:35:54,079: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 15:35:54,081: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 15:35:54,081: INFO: common: created directory at: artifacts]
+[2024-09-03 15:35:54,082: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 15:35:54,107: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 15:35:54,107: INFO: data_transformation: (1199, 12)]
+[2024-09-03 15:35:54,107: INFO: data_transformation: (400, 12)]
+[2024-09-03 15:35:54,109: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 15:35:54,109: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 15:35:54,113: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 15:35:54,115: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 15:35:54,117: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 15:35:54,117: INFO: common: created directory at: artifacts]
+[2024-09-03 15:35:54,118: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 15:35:54,167: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 15:40:46,231: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 16:44:47,511: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 16:44:47,536: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 16:44:47,540: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 16:44:47,545: INFO: common: created directory at: artifacts]
+[2024-09-03 16:44:47,549: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 16:44:50,161: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 18:52:21,442: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-03 18:52:21,452: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-03 18:52:21,457: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-09-03 18:52:21,463: INFO: common: created directory at: artifacts]
+[2024-09-03 18:52:21,467: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 18:52:22,881: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 21:44:03,946: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 21:44:05,936: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 21:44:05,940: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:05,944: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:05,948: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:05,949: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:05,950: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 21:44:05,950: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 21:44:05,978: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:44:05,978: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 21:44:05,981: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:05,982: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:05,984: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:05,984: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:05,984: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 21:44:06,018: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:44:06,019: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 21:44:06,024: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:06,024: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:06,027: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:06,027: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:06,027: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 21:44:06,055: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 21:44:06,055: INFO: data_transformation: (1199, 12)]
+[2024-09-03 21:44:06,056: INFO: data_transformation: (400, 12)]
+[2024-09-03 21:44:06,057: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:44:06,057: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 21:44:06,059: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:06,060: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:06,062: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:06,062: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:06,062: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 21:44:06,126: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:44:06,127: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 21:44:06,127: ERROR: main: name 'ModelEvaluationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\91981\Desktop\New folder\mlProject\main.py", line 63, in <module>
+    data_ingestion = ModelEvaluationTrainingPipeline()
+NameError: name 'ModelEvaluationTrainingPipeline' is not defined
+[2024-09-03 21:44:53,791: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 21:44:58,042: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 21:44:58,045: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:58,049: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:58,051: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:58,052: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:58,052: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 21:44:58,052: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 21:44:58,058: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:44:58,059: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 21:44:58,062: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:58,063: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:58,064: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:58,065: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:58,065: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 21:44:58,105: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:44:58,105: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 21:44:58,110: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:58,111: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:58,113: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:58,114: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:58,114: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 21:44:58,142: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 21:44:58,142: INFO: data_transformation: (1199, 12)]
+[2024-09-03 21:44:58,142: INFO: data_transformation: (400, 12)]
+[2024-09-03 21:44:58,142: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:44:58,143: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 21:44:58,145: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:58,146: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:58,150: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:58,151: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:58,152: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 21:44:58,206: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:44:58,207: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 21:44:58,209: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:44:58,210: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:44:58,214: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:44:58,214: INFO: common: created directory at: artifacts]
+[2024-09-03 21:44:58,215: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 21:44:58,639: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 21:45:05,428: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:46:00,801: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 21:46:03,326: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 21:46:03,330: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:46:03,333: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:46:03,335: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:46:03,336: INFO: common: created directory at: artifacts]
+[2024-09-03 21:46:03,337: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 21:46:04,454: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 22F2:77147:A9AE8:BDC5B:66D73643
+Accept-Ranges: bytes
+Date: Tue, 03 Sep 2024 16:16:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4737-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1725380163.494549,VS0,VE460
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d107a2eabd89e14c6e3282eca268a4979b8808c9
+Expires: Tue, 03 Sep 2024 16:21:03 GMT
+Source-Age: 0
+
+]
+[2024-09-03 21:46:04,480: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:46:04,480: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 21:46:04,484: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:46:04,485: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:46:04,487: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:46:04,488: INFO: common: created directory at: artifacts]
+[2024-09-03 21:46:04,488: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 21:46:04,519: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:46:04,519: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 21:46:04,524: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:46:04,525: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:46:04,527: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:46:04,528: INFO: common: created directory at: artifacts]
+[2024-09-03 21:46:04,528: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 21:46:04,556: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 21:46:04,557: INFO: data_transformation: (1199, 12)]
+[2024-09-03 21:46:04,557: INFO: data_transformation: (400, 12)]
+[2024-09-03 21:46:04,557: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:46:04,558: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 21:46:04,562: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:46:04,564: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:46:04,567: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:46:04,567: INFO: common: created directory at: artifacts]
+[2024-09-03 21:46:04,568: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 21:46:04,843: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:46:04,843: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 21:46:04,847: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:46:04,848: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:46:04,851: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:46:04,852: INFO: common: created directory at: artifacts]
+[2024-09-03 21:46:04,854: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 21:46:05,132: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 21:46:09,836: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:50:06,784: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 21:50:09,214: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 21:50:09,217: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:50:09,221: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:50:09,222: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:50:09,223: INFO: common: created directory at: artifacts]
+[2024-09-03 21:50:09,223: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 21:50:09,223: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 21:50:09,228: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:50:09,228: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 21:50:09,231: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:50:09,232: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:50:09,234: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:50:09,235: INFO: common: created directory at: artifacts]
+[2024-09-03 21:50:09,235: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 21:50:09,266: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:50:09,266: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 21:50:09,270: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:50:09,271: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:50:09,273: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:50:09,274: INFO: common: created directory at: artifacts]
+[2024-09-03 21:50:09,274: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 21:50:09,301: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 21:50:09,301: INFO: data_transformation: (1199, 12)]
+[2024-09-03 21:50:09,301: INFO: data_transformation: (400, 12)]
+[2024-09-03 21:50:09,302: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:50:09,302: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 21:50:09,305: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:50:09,305: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:50:09,308: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:50:09,308: INFO: common: created directory at: artifacts]
+[2024-09-03 21:50:09,309: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 21:50:09,360: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 21:50:09,360: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 21:50:09,365: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 21:50:09,365: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 21:50:09,368: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 21:50:09,368: INFO: common: created directory at: artifacts]
+[2024-09-03 21:50:09,368: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 21:50:09,601: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 21:50:13,976: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:21:30,334: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 22:21:34,077: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 22:21:34,095: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:21:34,105: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:21:34,120: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:21:34,121: INFO: common: created directory at: artifacts]
+[2024-09-03 22:21:34,122: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 22:21:34,123: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 22:21:34,145: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:21:34,145: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 22:21:34,148: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:21:34,149: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:21:34,150: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:21:34,151: INFO: common: created directory at: artifacts]
+[2024-09-03 22:21:34,152: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 22:21:34,188: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:21:34,188: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 22:21:34,193: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:21:34,194: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:21:34,197: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:21:34,197: INFO: common: created directory at: artifacts]
+[2024-09-03 22:21:34,198: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 22:21:34,233: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 22:21:34,233: INFO: data_transformation: (1199, 12)]
+[2024-09-03 22:21:34,234: INFO: data_transformation: (400, 12)]
+[2024-09-03 22:21:34,234: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:21:34,235: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 22:21:34,238: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:21:34,239: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:21:34,241: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:21:34,243: INFO: common: created directory at: artifacts]
+[2024-09-03 22:21:34,244: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 22:21:34,306: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:21:34,306: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 22:21:34,311: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:21:34,312: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:21:34,313: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:21:34,314: INFO: common: created directory at: artifacts]
+[2024-09-03 22:21:34,314: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 22:21:35,362: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 22:21:48,899: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:25:27,639: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 22:25:30,895: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 22:25:30,900: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:25:30,917: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:25:30,918: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:25:30,919: INFO: common: created directory at: artifacts]
+[2024-09-03 22:25:30,920: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 22:25:30,920: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 22:25:30,926: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:25:30,926: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 22:25:30,929: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:25:30,930: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:25:30,934: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:25:30,934: INFO: common: created directory at: artifacts]
+[2024-09-03 22:25:30,935: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 22:25:30,968: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:25:30,968: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 22:25:30,975: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:25:30,976: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:25:30,978: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:25:30,978: INFO: common: created directory at: artifacts]
+[2024-09-03 22:25:30,978: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 22:25:31,010: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 22:25:31,010: INFO: data_transformation: (1199, 12)]
+[2024-09-03 22:25:31,010: INFO: data_transformation: (400, 12)]
+[2024-09-03 22:25:31,011: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:25:31,011: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 22:25:31,014: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:25:31,016: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:25:31,018: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:25:31,018: INFO: common: created directory at: artifacts]
+[2024-09-03 22:25:31,019: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 22:25:31,089: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:25:31,090: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 22:25:31,094: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:25:31,096: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:25:31,098: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:25:31,099: INFO: common: created directory at: artifacts]
+[2024-09-03 22:25:31,099: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 22:25:32,125: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 22:25:45,178: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:26:24,662: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 22:26:26,703: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 22:26:26,706: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:26:26,715: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:26:26,718: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:26:26,719: INFO: common: created directory at: artifacts]
+[2024-09-03 22:26:26,719: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 22:26:26,719: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 22:26:26,723: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:26:26,723: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 22:26:26,726: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:26:26,727: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:26:26,729: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:26:26,730: INFO: common: created directory at: artifacts]
+[2024-09-03 22:26:26,730: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 22:26:26,749: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:26:26,749: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 22:26:26,754: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:26:26,754: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:26:26,758: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:26:26,758: INFO: common: created directory at: artifacts]
+[2024-09-03 22:26:26,758: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 22:26:26,776: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 22:26:26,776: INFO: data_transformation: (1199, 12)]
+[2024-09-03 22:26:26,776: INFO: data_transformation: (400, 12)]
+[2024-09-03 22:26:26,777: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:26:26,777: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 22:26:26,780: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:26:26,782: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:26:26,785: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:26:26,785: INFO: common: created directory at: artifacts]
+[2024-09-03 22:26:26,786: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 22:26:26,837: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:26:26,837: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 22:26:26,841: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:26:26,843: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:26:26,845: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:26:26,845: INFO: common: created directory at: artifacts]
+[2024-09-03 22:26:26,846: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 22:28:27,865: WARNING: connectionpool: Retrying (Retry(total=4, connect=5, read=4, redirect=5, status=5)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='dagshub.com', port=443): Read timed out. (read timeout=120)")': /Vak07/mlflow.mlflow/api/2.0/mlflow/runs/create]
+[2024-09-03 22:28:28,708: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 22:28:42,781: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:58:12,383: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 22:58:16,189: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 22:58:16,194: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:58:16,198: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:58:16,200: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:58:16,201: INFO: common: created directory at: artifacts]
+[2024-09-03 22:58:16,201: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 22:58:16,203: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 22:58:16,209: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:58:16,209: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 22:58:16,212: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:58:16,213: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:58:16,214: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:58:16,216: INFO: common: created directory at: artifacts]
+[2024-09-03 22:58:16,216: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 22:58:16,257: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:58:16,257: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 22:58:16,260: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:58:16,262: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:58:16,265: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:58:16,265: INFO: common: created directory at: artifacts]
+[2024-09-03 22:58:16,266: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 22:58:16,296: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 22:58:16,297: INFO: data_transformation: (1199, 12)]
+[2024-09-03 22:58:16,297: INFO: data_transformation: (400, 12)]
+[2024-09-03 22:58:16,297: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:58:16,298: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 22:58:16,301: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:58:16,301: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:58:16,303: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:58:16,304: INFO: common: created directory at: artifacts]
+[2024-09-03 22:58:16,304: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 22:58:16,362: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 22:58:16,362: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 22:58:16,364: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 22:58:16,366: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 22:58:16,368: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 22:58:16,369: INFO: common: created directory at: artifacts]
+[2024-09-03 22:58:16,369: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 22:58:16,699: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 22:58:21,442: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 23:06:50,947: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-09-03 23:06:54,173: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-09-03 23:06:54,177: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 23:06:54,180: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 23:06:54,182: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 23:06:54,183: INFO: common: created directory at: artifacts]
+[2024-09-03 23:06:54,183: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-03 23:06:54,183: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-09-03 23:06:54,189: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-09-03 23:06:54,189: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-09-03 23:06:54,192: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 23:06:54,193: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 23:06:54,195: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 23:06:54,196: INFO: common: created directory at: artifacts]
+[2024-09-03 23:06:54,196: INFO: common: created directory at: artifacts/data_validation]
+[2024-09-03 23:06:54,229: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 23:06:54,230: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-09-03 23:06:54,234: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 23:06:54,235: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 23:06:54,237: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 23:06:54,238: INFO: common: created directory at: artifacts]
+[2024-09-03 23:06:54,239: INFO: common: created directory at: artifacts/data_transformation]
+[2024-09-03 23:06:54,267: INFO: data_transformation: Splited data into training and test sets]
+[2024-09-03 23:06:54,267: INFO: data_transformation: (1199, 12)]
+[2024-09-03 23:06:54,267: INFO: data_transformation: (400, 12)]
+[2024-09-03 23:06:54,268: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 23:06:54,268: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-09-03 23:06:54,271: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 23:06:54,272: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 23:06:54,274: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 23:06:54,275: INFO: common: created directory at: artifacts]
+[2024-09-03 23:06:54,276: INFO: common: created directory at: artifacts/model_trainer]
+[2024-09-03 23:06:54,332: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-09-03 23:06:54,332: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-09-03 23:06:54,335: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\config\config.yaml loaded successfully]
+[2024-09-03 23:06:54,336: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\params.yaml loaded successfully]
+[2024-09-03 23:06:54,337: INFO: common: yaml file: C:\Users\91981\Desktop\New folder\mlProject\schema.yaml loaded successfully]
+[2024-09-03 23:06:54,338: INFO: common: created directory at: artifacts]
+[2024-09-03 23:06:54,338: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-09-03 23:06:54,624: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-09-03 23:06:59,191: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-09-03 23:07:10,840: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.17.76.20:8080]
+[2024-09-03 23:07:10,842: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-09-03 23:09:20,316: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:20] "GET / HTTP/1.1" 200 -]
+[2024-09-03 23:09:20,487: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:20] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-09-03 23:09:20,490: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:20] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-09-03 23:09:20,490: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:20] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-09-03 23:09:20,490: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:20] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-09-03 23:09:21,816: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:21] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-09-03 23:09:21,829: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:21] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2024-09-03 23:09:21,871: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:21] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-09-03 23:09:22,220: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:09:22] "GET /static/assets/favicon.ico HTTP/1.1" 200 -]
+[2024-09-03 23:18:10,119: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.17.76.20:8080]
+[2024-09-03 23:18:10,119: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-09-03 23:18:20,006: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:20] "GET / HTTP/1.1" 200 -]
+[2024-09-03 23:18:20,203: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-09-03 23:18:20,204: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:20] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-09-03 23:18:20,205: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:20] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-09-03 23:18:20,205: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:20] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-09-03 23:18:20,218: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:20] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-09-03 23:18:20,283: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:20] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-09-03 23:18:20,305: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:20] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-09-03 23:18:50,624: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:50] "POST /predict HTTP/1.1" 200 -]
+[2024-09-03 23:18:50,669: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:50] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-09-03 23:18:50,674: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:50] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-09-03 23:18:50,697: INFO: _internal: 127.0.0.1 - - [03/Sep/2024 23:18:50] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-09-04 00:40:08,080: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:40:08] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-09-04 00:40:08,091: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:40:08] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-09-04 00:40:08,091: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:40:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-09-04 00:40:08,123: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:40:08] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-09-04 00:40:08,142: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:40:08] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-09-04 00:40:08,151: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:40:08] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-09-04 00:40:08,174: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:40:08] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-09-04 00:49:22,827: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:49:22] "POST /predict HTTP/1.1" 200 -]
+[2024-09-04 00:49:22,889: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:49:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-09-04 00:49:22,889: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:49:22] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-09-04 00:49:22,916: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 00:49:22] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-09-04 14:41:28,670: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.17.76.20:8080]
+[2024-09-04 14:41:28,671: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-09-04 14:42:00,480: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:42:00] "GET / HTTP/1.1" 200 -]
+[2024-09-04 14:42:00,683: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:42:00] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-09-04 14:42:00,684: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:42:00] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-09-04 14:42:00,686: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:42:00] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-09-04 14:42:00,701: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:42:00] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-09-04 14:42:00,706: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:42:00] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-09-04 14:42:00,716: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:42:00] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-09-04 14:42:00,752: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:42:00] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-09-04 14:45:23,770: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:45:23] "POST /predict HTTP/1.1" 200 -]
+[2024-09-04 14:45:23,806: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:45:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-09-04 14:45:23,809: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:45:23] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-09-04 14:45:23,847: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:45:23] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-09-04 14:47:01,408: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:47:01] "POST /predict HTTP/1.1" 200 -]
+[2024-09-04 14:47:01,440: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:47:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-09-04 14:47:01,442: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:47:01] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-09-04 14:47:01,464: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:47:01] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-09-04 14:47:37,262: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:47:37] "POST /predict HTTP/1.1" 200 -]
+[2024-09-04 14:47:37,313: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:47:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-09-04 14:48:26,168: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:48:26] "POST /predict HTTP/1.1" 200 -]
+[2024-09-04 14:48:26,202: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:48:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-09-04 14:48:26,202: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:48:26] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-09-04 14:48:26,225: INFO: _internal: 127.0.0.1 - - [04/Sep/2024 14:48:26] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]

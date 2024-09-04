@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91981/Desktop/New%20folder/mlProject/mlruns/0/2dbc4cf5585248029d3eb6b48cc3fe91/artifacts
+end_time: 1725384501439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dbc4cf5585248029d3eb6b48cc3fe91
+run_name: useful-bee-714
+run_uuid: 2dbc4cf5585248029d3eb6b48cc3fe91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725384496609
+status: 3
+tags: []
+user_id: '91981'
